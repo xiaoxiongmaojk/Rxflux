@@ -1,0 +1,15 @@
+
+G
+java:S1874G"1Remove this use of "markState"; it is deprecated.(Ïê‡˜
+B
+java:S1068"'Remove this unused "TAG" private field.(„ãˆıÿÿÿÿ
+G
+java:S1874""1Remove this use of "markState"; it is deprecated.(‘ÌÓ³
+L
+java:S1874!"1Remove this use of "markState"; it is deprecated.(ÔËıÿÿÿÿ
+B
+java:S16022",Remove useless curly braces around statement(ˆŒ³·
+Q	java:S125$"<This block of commented-out lines of code should be removed.(šÒ–œ
+F
+java:S1874 "1Remove this use of "markState"; it is deprecated.(Õót
+V	java:S125"<This block of commented-out lines of code should be removed.(ÚÉ¾ıÿÿÿÿ

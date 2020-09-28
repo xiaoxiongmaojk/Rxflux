@@ -1,0 +1,23 @@
+
+W
+java:S1172G"<Remove this unused method parameter "apiDeleteSampleEntity".(½¸áşÿÿÿÿÿ
+O
+java:S1172<"9Remove this unused method parameter "apiPutSampleEntity".(ã¹Í®
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Ş¬†—Ì.
+T
+java:S1135+"2Complete the task associated to this TODO comment.(ÑİºÛşÿÿÿÿ8´öƒŸÌ.
+A
+java:S1172'",Remove this unused method parameter "ccuId".(”è‡R
+y
+java:S1128"\Remove this unused import 'cn.co.yamaha_motor.sccu.repository.entity.database.SccuDatabase'.(ü¾À8Æ“‰—Ì.
+s
+java:S1128"VRemove this unused import 'cn.co.yamaha_motor.sccu.repository.entity.dao.TestDataDao'.(Â©úĞ8îˆ—Ì.
+P
+java:S11721":Remove this unused method parameter "apiPostSampleEntity".(ÄÌÕß
+N
+java:S1128"3Remove this unused import 'android.text.TextUtils'.(û˜½Õøÿÿÿÿ
+j
+java:S1192*"ODefine a constant instead of duplicating this literal "00001111999906" 4 times.(¡ğœ‡üÿÿÿÿ
+w
+java:S1128"ZRemove this unused import 'cn.co.yamaha_motor.sccu.repository.entity.room.TestDataEntity'.(ø›¾è8Ş¬†—Ì.

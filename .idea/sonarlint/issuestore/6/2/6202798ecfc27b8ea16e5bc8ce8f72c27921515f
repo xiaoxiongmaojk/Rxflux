@@ -1,0 +1,8 @@
+
+n
+java:S1128"LRemove this unused import 'cn.co.yamaha_motor.sccu.action.RoomSampleAction'.(ëˆæ¼ùÿÿÿÿ8˜ƒð•Ì.
+w
+java:S1128"ZRemove this unused import 'cn.co.yamaha_motor.sccu.repository.entity.room.TestDataEntity'.(ø›¾è8•ï‡—Ì.
+G
+java:S1602Z",Remove useless curly braces around statement(ß­›ßûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º¹ª¥ùÿÿÿÿ
